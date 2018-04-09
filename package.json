@@ -1,0 +1,32 @@
+{
+  "name": "zanner-cms-asyncfunction",
+  "version": "0.0.0",
+  "description": "AsyncFunction class for instanseof check",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "AsyncFunction"
+  ],
+  "author": "Sergej Kukharev",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.0.5",
+    "mocha-logger": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanner-cms/AsyncFunction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zanner-cms/AsyncFunction/issues"
+  },
+  "homepage": "https://github.com/zanner-cms/AsyncFunction#readme"
+}
